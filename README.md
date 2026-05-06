@@ -58,7 +58,7 @@ nyc-taxi-snowflake-elt/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/nyc-taxi-snowflake-elt.git
+git clone https://github.com/gautabe/nyc-taxi-snowflake-elt.git
 ```
 
 **2. Run scripts in order** inside a Snowflake worksheet:
@@ -130,7 +130,7 @@ From the Gold layer analysis of December 2015 NYC taxi data:
 
 ## 👤 Author
 
-**Seraphin Nomo** — Junior Data Engineer  
+**Seraphin  Gautier Abela Nomo** — Junior Data Engineer  
 Built as a portfolio project to demonstrate Snowflake and ELT engineering skills.
 
 ---
